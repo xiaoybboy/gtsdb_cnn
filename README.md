@@ -18,6 +18,6 @@ If you have the submitted version of this repo, which has all the dataset and mo
 
 All files under the `GTSRB` and `GTSDB` directories are lincensed under the MIT License. See `LICENSE` for more information.
 
-Files under the `keras-frcnn` directory was derived from the GitHub repo [yhenon/keras-frcnn]https://github.com/yhenon/keras-frcnn, which is licensed under the Apache 2.0 License. See that repo for more information.
+Files under the `keras-frcnn` directory was derived from the GitHub repo [yhenon/keras-frcnn](https://github.com/yhenon/keras-frcnn), which is licensed under the Apache 2.0 License. See that repo for more information.
 
 The dataset directory contains preprocessed versions of the GTSRB and GTSDB datasets freely available at http://benchmark.ini.rub.de/?section=home&subsection=news.
