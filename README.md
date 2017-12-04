@@ -2,6 +2,16 @@
 
 This repo is half of the course project for COMP7502 Image Processing and Computer Vision at The University of Hong Kong on traffic sign detection.
 
+# IMPORTANT NOTE
+
+This repo will be **removed** from GitHub anytime on or after January 1, 2018. (UTC+8)
+
+Git LFS currently does not support removing files still referenced by old commits, so keeping this repo on GitHub will require a monthly fee unless we remove existing commits (which is undesirable).
+
+As the course project has finished grading, maintaining this repo is no longer sensible.
+
+If you would like to continue using this repo, please clone it before January 1, 2018. (UTC+8)
+
 ## Installation
 
 This repo is self-contained. You can clone and run this repo by following instructions in readme.pdf.
